@@ -1,4 +1,4 @@
-# A list of packages that don't yet exist, but definately should
+# A list of packages that don't yet exist, but definitely should
 
 ## Rationale
 
