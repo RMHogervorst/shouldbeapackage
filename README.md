@@ -19,7 +19,7 @@ Preferably in the following way: dash (-) name of the package colon(:) explanati
 - TastR: create balanced food or drinks tasting experiments for party or serious study.
 - witchcraft / bewitcher: -
 - stereotypR : classifies people by their stance. 
-- powRballad: solves the ancient problem of; what song do i choose for Kareoke, based on R-level and Nationality.
+- [powRballad](https://github.com/Reoke/powrballad): solves the ancient problem of; what song do i choose for Kareoke, based on R-level and Nationality.
 - bilocation: enables you to be at two places at the same time. [from Jenine K Harris twitter](https://twitter.com/jenineharris/status/882875745399427072)
 
 
