@@ -17,7 +17,8 @@ Preferably in the following way: dash (-) name of the package colon(:) explanati
 # list of packages that should exist, but don't.
 
 - TastR: create balanced food or drinks tasting experiments for party or serious study.
-- 
+- witchcraft / bewitcher: -
+- powRballad: solves the ancient problem of; what song do i choose for Kareoke, based on R-level and Nationality.
 
 
 
