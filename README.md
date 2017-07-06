@@ -20,7 +20,7 @@ Preferably in the following way: dash (-) name of the package colon(:) explanati
 - witchcraft / bewitcher: -
 - stereotypR : classifies people by their stance. 
 - powRballad: solves the ancient problem of; what song do i choose for Kareoke, based on R-level and Nationality.
-
+- bilocation: enables you to be at two places at the same time. [from Jenine K Harris twitter](https://twitter.com/jenineharris/status/882875745399427072)
 
 
 ### links
