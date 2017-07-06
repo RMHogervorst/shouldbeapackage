@@ -18,6 +18,7 @@ Preferably in the following way: dash (-) name of the package colon(:) explanati
 
 - TastR: create balanced food or drinks tasting experiments for party or serious study.
 - witchcraft / bewitcher: -
+- stereotypR : classifies people by their stance. 
 - powRballad: solves the ancient problem of; what song do i choose for Kareoke, based on R-level and Nationality.
 
 
