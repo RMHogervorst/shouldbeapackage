@@ -21,6 +21,8 @@ Preferably in the following way: dash (-) name of the package colon(:) explanati
 - stereotypR : classifies people by their stance. 
 - [powRballad](https://github.com/Reoke/powrballad): solves the ancient problem of; what song do i choose for Kareoke, based on R-level and Nationality.
 - bilocation: enables you to be at two places at the same time. [from Jenine K Harris twitter](https://twitter.com/jenineharris/status/882875745399427072)
+- conferencemode: a package that makes sure that everything works even though the internet drops out regularly, might cache some stuff, might download the conference website. 
+- hexprintR: a package that helps you quickly create hexbin size logos for your projects that are sticker-print ready.
 
 
 ### links
