@@ -23,6 +23,13 @@ Preferably in the following way: dash (-) name of the package colon(:) explanati
 - bilocation: enables you to be at two places at the same time. [from Jenine K Harris twitter](https://twitter.com/jenineharris/status/882875745399427072)
 - conferencemode: a package that makes sure that everything works even though the internet drops out regularly, might cache some stuff, might download the conference website. 
 - hexprintR: a package that helps you quickly create hexbin size logos for your projects that are sticker-print ready.
+- feedme: a package that tells you what the goto dish is for a given country and city.
+- empathy: based on the errors in your code over time this package will give you motivation with music and postive vibes.
+- meetuplocatR : a package that tells you where the closest meetup or R usergroup is, and also knows when these events happen, so for instance while you are in Amsterdam it will tell you: "if you take the train now you can get to the next useRgroup meetup in prague in two days.
+- bigmother: a package that keeps track of when you are coding, it will give you passive aggresive remarks such as: " really, it is way to late to be behind your computer, go to sleep" and "10 o clock starting? that is a tad late, isn't it?"
+- Academic motivator: a package that always gives you the same advice: "you should be wrting"
+- givemeabreakplease: a package that tells you where you should go on vacation based on your wishes, airplane or not, how big your budget is, sun preference, etc. 
+- package that keeps track of what packages do not yet exist (it should parse this page I think)
 
 
 ### links
