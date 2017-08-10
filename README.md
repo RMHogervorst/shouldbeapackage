@@ -18,11 +18,11 @@ Preferably in the following way: dash (-) name of the package colon(:) explanati
 
 - TastR: create balanced food or drinks tasting experiments for party or serious study.
 - witchcraft / bewitcher: -
-- stereotypR : classifies people by their stance. 
+- stereotypR : classifies people by their stance. [is it already done? a motion capture package](http://giorasimchoni.com/2017/08/08/2017-08-08-lambada-the-mocap-package/)
 - [powRballad](https://github.com/Reoke/powrballad): solves the ancient problem of; what song do i choose for Kareoke, based on R-level and Nationality.
 - bilocation: enables you to be at two places at the same time. [from Jenine K Harris twitter](https://twitter.com/jenineharris/status/882875745399427072)
 - conferencemode: a package that makes sure that everything works even though the internet drops out regularly, might cache some stuff, might download the conference website. 
-- hexprintR: a package that helps you quickly create hexbin size logos for your projects that are sticker-print ready.
+- hexprintR: a package that helps you quickly create hexbin size logos for your projects that are sticker-print ready. [already done with hexsticker](https://github.com/GuangchuangYu/hexSticker)
 - feedme: a package that tells you what the goto dish is for a given country and city.
 - empathy: based on the errors in your code over time this package will give you motivation with music and postive vibes.
 - meetuplocatR : a package that tells you where the closest meetup or R usergroup is, and also knows when these events happen, so for instance while you are in Amsterdam it will tell you: "if you take the train now you can get to the next useRgroup meetup in prague in two days.
